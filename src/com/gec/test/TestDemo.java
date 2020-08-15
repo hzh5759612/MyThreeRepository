@@ -20,5 +20,12 @@ public class TestDemo {
         System.out.println("public void delete()-------");
     }
 
+    //团队工程师  张三  添加了一个list()
+    public void list(){
+
+        System.out.println("public void list()-------");
+    }
+
+
 
 }
